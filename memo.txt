@@ -1,0 +1,24 @@
+/Home
+
+/Kaede
+- /pc
+- /char
+- /game
+- /mmd
+- /links
+
+/member
+- /pc
+- /download
+
+/event
+- /2025
+-- /12
+--- /top
+--- /score
+
+/notice
+- /2025
+- /2024
+
+/contact
